@@ -45,7 +45,7 @@ public class HomeActivity extends AppCompatActivity {
         mTxtQualification.setText("Qualification : " + intent.getStringExtra("qualification"));
         mTxtCity.setText("City : " + intent.getStringExtra("city"));
         mTxtState.setText("State : " + intent.getStringExtra("state"));
-
+////ojojoj
 
     }
 }
