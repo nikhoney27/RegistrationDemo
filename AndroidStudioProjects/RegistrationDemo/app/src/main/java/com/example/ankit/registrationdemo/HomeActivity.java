@@ -46,6 +46,6 @@ public class HomeActivity extends AppCompatActivity {
         mTxtCity.setText("City : " + intent.getStringExtra("city"));
         mTxtState.setText("State : " + intent.getStringExtra("state"));
 ////ojojoj
-
+//ffghfthttht
     }
 }
